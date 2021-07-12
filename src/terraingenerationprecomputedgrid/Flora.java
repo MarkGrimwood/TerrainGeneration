@@ -67,7 +67,6 @@ public class Flora {
     private static void setup() {
         if (imageTextureFlora == null) {
             imageTextureFlora = new Image("file:Flora.gif");
-//            imageTextureFlora = new Image("file:Boobies.jpg");
         }
 
         if (floraMaterial == null) {
