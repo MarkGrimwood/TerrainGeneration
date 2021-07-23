@@ -1,5 +1,5 @@
 # TerrainGeneration
-An old Java project resurrected as a code demo
+An old Java project resurrected as a code demo. All my previous coding has to be considered as proprietary, so I don't have much to show. But I'm working on something personal now so that will eventually appear on my GitHub too
 
 I wrote this back in 2016 when I had an idea for a game and wanted to learn Java. I needed to create an island and rather than use something predefined I started playing with terrain generation, which briefly became an obsession. Mostly that obsession was about creating as large an area as possible running as fast as possible using quadtrees and preserving already calculated data. I'd got as far as adding trees for a limited area before I stopped work on it. The game never happened in the end, but the exploration of techniques was fun. 
 
